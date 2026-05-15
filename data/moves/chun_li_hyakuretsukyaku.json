@@ -1,0 +1,22 @@
+{
+  "id": "chun_li_hyakuretsukyaku",
+  "display_name": "Hyakuretsukyaku",
+  "input_classic": "charge [2]8+kick rapid",
+  "input_modern": "special+kick rapid",
+  "type": "special",
+  "startup": 5,
+  "active": 20,
+  "recovery": 25,
+  "damage": 150,
+  "stun_damage": 150,
+  "chip_damage": 25,
+  "meter_gain": 16,
+  "hitstop": 6,
+  "pushback": 40,
+  "multi_hit": true,
+  "hits": 5,
+  "sound": "voice_chunli_hyakuretsukyaku",
+  "vfx": "kick_afterimages",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_medium"
+}

@@ -1,0 +1,42 @@
+[gd_scene load_steps=9 format=3 uid="uid://fightscenestreetfighter"]
+
+[ext_resource type="Script" path="res://scripts/fight/fight_scene.gd" id="1_fight_scene"]
+[ext_resource type="Script" path="res://scripts/fight/fight_camera.gd" id="2_fight_camera"]
+[ext_resource type="PackedScene" path="res://scenes/ui/FightHUD.tscn" id="3_fight_hud"]
+[ext_resource type="PackedScene" path="res://scenes/ui/TrainingOverlay.tscn" id="8_training_overlay"]
+[ext_resource type="Script" path="res://scripts/fight/round_manager.gd" id="4_round_manager"]
+[ext_resource type="Script" path="res://scripts/input/input_buffer.gd" id="5_input_buffer"]
+[ext_resource type="Script" path="res://scripts/input/motion_parser.gd" id="9_motion_parser"]
+[ext_resource type="Script" path="res://scripts/vfx/vfx_spawner.gd" id="6_vfx_spawner"]
+[ext_resource type="Script" path="res://scripts/fight/hitstop_manager.gd" id="7_hitstop_manager"]
+
+[node name="FightScene" type="Node2D"]
+script = ExtResource("1_fight_scene")
+
+[node name="StageBackground" type="Sprite2D" parent="."]
+centered = false
+
+[node name="Fighters" type="Node2D" parent="."]
+
+[node name="VFXSpawner" type="Node2D" parent="."]
+script = ExtResource("6_vfx_spawner")
+
+[node name="FightCamera" type="Camera2D" parent="."]
+position = Vector2(192, 112)
+script = ExtResource("2_fight_camera")
+
+[node name="FightHUD" parent="." instance=ExtResource("3_fight_hud")]
+
+[node name="RoundManager" type="Node" parent="."]
+script = ExtResource("4_round_manager")
+
+[node name="InputBuffer" type="Node" parent="."]
+script = ExtResource("5_input_buffer")
+
+[node name="MotionParser" type="Node" parent="."]
+script = ExtResource("9_motion_parser")
+
+[node name="HitstopManager" type="Node" parent="."]
+script = ExtResource("7_hitstop_manager")
+
+[node name="TrainingOverlay" parent="." instance=ExtResource("8_training_overlay")]

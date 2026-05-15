@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cuxwndcktoy06"
+path="res://.godot/imported/SFII_46 - Forward Hit.wav-b085fcc7187a2abeeb45f0b86db505fb.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/04 Moves & Hits/SFII_46 - Forward Hit.wav"
+dest_files=["res://.godot/imported/SFII_46 - Forward Hit.wav-b085fcc7187a2abeeb45f0b86db505fb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

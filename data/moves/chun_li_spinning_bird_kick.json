@@ -1,0 +1,20 @@
+{
+  "id": "chun_li_spinning_bird_kick",
+  "display_name": "Spinning Bird Kick",
+  "input_classic": "charge [2]8+kick",
+  "input_modern": "special+kick",
+  "type": "special",
+  "startup": 6,
+  "active": 10,
+  "recovery": 30,
+  "damage": 110,
+  "stun_damage": 120,
+  "chip_damage": 18,
+  "meter_gain": 12,
+  "hitstop": 12,
+  "pushback": 80,
+  "sound": "voice_chunli_spinning_bird_kick",
+  "vfx": "spinning_kick_trail",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_heavy"
+}

@@ -1,0 +1,26 @@
+{
+  "ryu": {
+    "display_name": "Ryu",
+    "data_file": "res://data/fighters/ryu.json"
+  },
+  "ken": {
+    "display_name": "Ken",
+    "data_file": "res://data/fighters/ken.json"
+  },
+  "guile": {
+    "display_name": "Guile",
+    "data_file": "res://data/fighters/guile.json"
+  },
+  "chun_li": {
+    "display_name": "Chun-Li",
+    "data_file": "res://data/fighters/chun_li.json"
+  },
+  "shin_akuma": {
+    "display_name": "Shin Akuma",
+    "data_file": "res://data/fighters/shin_akuma.json"
+  },
+  "magician_red": {
+    "display_name": "Magician Red",
+    "data_file": "res://data/fighters/magician_red.json"
+  }
+}

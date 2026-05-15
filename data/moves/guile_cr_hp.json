@@ -1,0 +1,20 @@
+{
+  "id": "guile_cr_hp",
+  "display_name": "HP",
+  "input_classic": "hp",
+  "input_modern": "hp",
+  "type": "normal",
+  "startup": 10,
+  "active": 4,
+  "recovery": 18,
+  "damage": 90,
+  "stun_damage": 150,
+  "chip_damage": 18,
+  "meter_gain": 8,
+  "hitstop": 12,
+  "pushback": 60,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_fierce"
+}

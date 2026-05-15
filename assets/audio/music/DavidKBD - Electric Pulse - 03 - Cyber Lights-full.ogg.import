@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://epfa2mia3p01"
+path="res://.godot/imported/DavidKBD - Electric Pulse - 03 - Cyber Lights-full.ogg-fb047ec9f34d86689d33cc34d44000d8.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/DavidKBD - Electric Pulse - 03 - Cyber Lights-full.ogg"
+dest_files=["res://.godot/imported/DavidKBD - Electric Pulse - 03 - Cyber Lights-full.ogg-fb047ec9f34d86689d33cc34d44000d8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

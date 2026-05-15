@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cl18yuqfkm1wv"
+path="res://.godot/imported/Select your Fighter!.wav-63070847c88aa8ce6b37c27b9cf368bc.sample"
+
+[deps]
+
+source_file="res://assets/audio/voices/Select your Fighter!.wav"
+dest_files=["res://.godot/imported/Select your Fighter!.wav-63070847c88aa8ce6b37c27b9cf368bc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

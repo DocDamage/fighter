@@ -1,0 +1,17 @@
+{
+  "tournament_day": {
+    "display_name": "Tournament Day",
+    "data_file": "res://data/stages/tournament_day.json",
+    "music": "tournament_day"
+  },
+  "noh_stage": {
+    "display_name": "Noh Stage",
+    "data_file": "res://data/stages/noh_stage.json",
+    "music": "noh_stage"
+  },
+  "temple_night": {
+    "display_name": "Temple Night",
+    "data_file": "res://data/stages/temple_night.json",
+    "music": "temple_night"
+  }
+}

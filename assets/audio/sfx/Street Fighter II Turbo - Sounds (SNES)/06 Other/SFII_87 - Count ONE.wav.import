@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://buvqkydx3vtl5"
+path="res://.godot/imported/SFII_87 - Count ONE.wav-6495cbf9fa1d85068f369a86e31f8906.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/06 Other/SFII_87 - Count ONE.wav"
+dest_files=["res://.godot/imported/SFII_87 - Count ONE.wav-6495cbf9fa1d85068f369a86e31f8906.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

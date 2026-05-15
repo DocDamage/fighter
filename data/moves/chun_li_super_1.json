@@ -1,0 +1,23 @@
+{
+  "id": "chun_li_super_1",
+  "display_name": "Senretsukyaku",
+  "input_classic": "charge [4]6+charge [4]6+kick",
+  "input_modern": "super+kick",
+  "type": "super",
+  "startup": 8,
+  "active": 24,
+  "recovery": 35,
+  "damage": 250,
+  "stun_damage": 200,
+  "chip_damage": 40,
+  "meter_gain": 0,
+  "cost": 100,
+  "hitstop": 14,
+  "pushback": 100,
+  "multi_hit": true,
+  "hits": 7,
+  "sound": "voice_chunli_super",
+  "vfx": "super_flash_kick",
+  "cancel_from": ["special_cancelable", "normal_cancelable"],
+  "hit_sfx": "hit_heavy"
+}

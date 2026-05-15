@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d2y3cx2v0jo0o"
+path="res://.godot/imported/SFII_14 - You win!.wav-3ae5a23cd615ec33428b34cf800d9d0f.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/02 Fight Announcer/SFII_14 - You win!.wav"
+dest_files=["res://.godot/imported/SFII_14 - You win!.wav-3ae5a23cd615ec33428b34cf800d9d0f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,31 @@
+{
+  "id": "guile",
+  "display_name": "Guile",
+  "archetype": "charge_zoner",
+  "sprite_source": "res://assets/characters/processed/guile",
+  "sprite_format": "pre_cut_frames",
+  "health": 1050,
+  "stun": 1050,
+  "walk_speed": 170,
+  "back_walk_speed": 120,
+  "jump_velocity": -600,
+  "gravity_override": null,
+  "weight": "heavy",
+  "dash_distance": 100,
+  "backdash_distance": 90,
+  "backdash_invuln": 8,
+  "air_dash": false,
+  "double_jump": false,
+  "air_throw": false,
+  "moves": [
+    "guile_st_lp", "guile_st_mp", "guile_st_hp",
+    "guile_st_lk", "guile_st_mk", "guile_st_hk",
+    "guile_cr_lp", "guile_cr_mp", "guile_cr_hp",
+    "guile_cr_lk", "guile_cr_mk", "guile_cr_hk",
+    "guile_sonic_boom", "guile_flash_kick",
+    "guile_super_1"
+  ],
+  "ko_sfx": "ko_male",
+  "rival": "chun_li",
+  "arcade_ending": "endings/guile.txt"
+}

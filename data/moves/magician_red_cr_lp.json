@@ -1,0 +1,17 @@
+{
+  "id": "magician_red_cr_lp",
+  "display_name": "CROUCH LP",
+  "type": "normal",
+  "startup": 3,
+  "active": 2,
+  "recovery": 6,
+  "damage": 25,
+  "stun_damage": 30,
+  "meter_gain": 3,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_light"
+}

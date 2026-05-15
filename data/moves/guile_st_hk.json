@@ -1,0 +1,20 @@
+{
+  "id": "guile_st_hk",
+  "display_name": "HK",
+  "input_classic": "hk",
+  "input_modern": "hk",
+  "type": "normal",
+  "startup": 11,
+  "active": 4,
+  "recovery": 19,
+  "damage": 100,
+  "stun_damage": 150,
+  "chip_damage": 20,
+  "meter_gain": 8,
+  "hitstop": 12,
+  "pushback": 60,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_fierce"
+}

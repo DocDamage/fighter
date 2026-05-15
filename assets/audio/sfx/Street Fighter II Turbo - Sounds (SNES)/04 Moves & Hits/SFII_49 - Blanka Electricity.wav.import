@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://v430c4whxtdt"
+path="res://.godot/imported/SFII_49 - Blanka Electricity.wav-536a98aa738f06373860615b70c0e174.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/04 Moves & Hits/SFII_49 - Blanka Electricity.wav"
+dest_files=["res://.godot/imported/SFII_49 - Blanka Electricity.wav-536a98aa738f06373860615b70c0e174.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

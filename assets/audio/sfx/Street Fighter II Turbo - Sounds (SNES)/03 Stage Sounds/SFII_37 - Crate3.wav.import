@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dcnunhtxtxral"
+path="res://.godot/imported/SFII_37 - Crate3.wav-0d740bfbb32bf8843e4efac6b414b593.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/03 Stage Sounds/SFII_37 - Crate3.wav"
+dest_files=["res://.godot/imported/SFII_37 - Crate3.wav-0d740bfbb32bf8843e4efac6b414b593.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

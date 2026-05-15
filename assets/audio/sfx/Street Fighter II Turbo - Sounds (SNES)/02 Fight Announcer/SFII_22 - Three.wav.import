@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bnbhm8852ky0e"
+path="res://.godot/imported/SFII_22 - Three.wav-9077e4ec346ed9843f5ebce40ba4e157.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/02 Fight Announcer/SFII_22 - Three.wav"
+dest_files=["res://.godot/imported/SFII_22 - Three.wav-9077e4ec346ed9843f5ebce40ba4e157.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

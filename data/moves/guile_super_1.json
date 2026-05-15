@@ -1,0 +1,22 @@
+{
+  "id": "guile_super_1",
+  "display_name": "Double Flash",
+  "input_classic": "charge [4]6+charge [4]6+punch",
+  "input_modern": "super+punch",
+  "type": "super",
+  "startup": 4,
+  "active": 16,
+  "recovery": 40,
+  "invincible_startup": true,
+  "damage": 250,
+  "stun_damage": 200,
+  "chip_damage": 50,
+  "meter_gain": 0,
+  "cost": 100,
+  "hitstop": 15,
+  "pushback": 100,
+  "sound": "voice_guile_super",
+  "vfx": "super_flash",
+  "cancel_from": [],
+  "hit_sfx": "hit_fierce"
+}

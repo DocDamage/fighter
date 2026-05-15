@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://sarpqfdq0q0s"
+path="res://.godot/imported/SFII_11 - Thailand.wav-75f44795b0bb7812f9dc8c3964c84588.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/01 Select Screen & World Map/SFII_11 - Thailand.wav"
+dest_files=["res://.godot/imported/SFII_11 - Thailand.wav-75f44795b0bb7812f9dc8c3964c84588.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,41 @@
+[gd_scene load_steps=2 format=3 uid="uid://optionsmenuplaceholder"]
+
+[ext_resource type="Script" path="res://scripts/title/options_menu.gd" id="1_xxxxx"]
+
+[node name="OptionsMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_xxxxx")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 384.0
+offset_bottom = 224.0
+color = Color(0.05, 0.05, 0.1, 0.95)
+
+[node name="Title" type="Label" parent="."]
+layout_mode = 0
+offset_top = 20.0
+offset_right = 384.0
+offset_bottom = 40.0
+text = "OPTIONS"
+horizontal_alignment = 1
+
+[node name="MenuContainer" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_left = 80.0
+offset_top = 60.0
+offset_right = 304.0
+offset_bottom = 180.0
+
+[node name="Cursor" type="Label" parent="."]
+layout_mode = 0
+offset_left = 60.0
+offset_top = 60.0
+offset_right = 80.0
+offset_bottom = 74.0
+text = ">"

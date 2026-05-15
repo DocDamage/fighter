@@ -1,0 +1,15 @@
+{
+  "id": "magician_red_jmp_mk",
+  "display_name": "JUMP MK",
+  "type": "normal",
+  "startup": 6,
+  "active": 20,
+  "recovery": 8,
+  "damage": 50,
+  "stun_damage": 60,
+  "meter_gain": 3,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [],
+  "hit_sfx": "hit_medium"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "magician_red_st_hk",
+  "display_name": "STAND HK",
+  "type": "normal",
+  "startup": 10,
+  "active": 4,
+  "recovery": 16,
+  "damage": 100,
+  "stun_damage": 120,
+  "meter_gain": 3,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_heavy"
+}

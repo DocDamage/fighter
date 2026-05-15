@@ -1,0 +1,25 @@
+{
+  "id": "chun_li_kikoken",
+  "display_name": "Kikoken",
+  "input_classic": "charge [4]6+punch",
+  "input_modern": "special+punch",
+  "type": "special",
+  "startup": 14,
+  "active": 0,
+  "recovery": 32,
+  "damage": 50,
+  "stun_damage": 60,
+  "chip_damage": 10,
+  "meter_gain": 8,
+  "hitstop": 10,
+  "pushback": 40,
+  "projectile": {
+    "speed": 200,
+    "lifetime": 2.5,
+    "vfx": "energy_projectile"
+  },
+  "sound": "voice_chunli_kikoken",
+  "vfx": "energy_projectile_spawn",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_medium"
+}

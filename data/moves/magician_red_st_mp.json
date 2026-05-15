@@ -1,0 +1,17 @@
+{
+  "id": "magician_red_st_mp",
+  "display_name": "STAND MP",
+  "type": "normal",
+  "startup": 6,
+  "active": 3,
+  "recovery": 10,
+  "damage": 55,
+  "stun_damage": 60,
+  "meter_gain": 3,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_medium"
+}

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://r0dne7sssqjx"
+path="res://.godot/imported/DavidKBD - Electric Pulse - 02 - Digital Horizon-full.ogg-b05c5aea8284ff42ca40c33bf2e05e0d.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/DavidKBD - Electric Pulse - 02 - Digital Horizon-full.ogg"
+dest_files=["res://.godot/imported/DavidKBD - Electric Pulse - 02 - Digital Horizon-full.ogg-b05c5aea8284ff42ca40c33bf2e05e0d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

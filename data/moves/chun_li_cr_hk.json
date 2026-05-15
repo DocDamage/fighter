@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_cr_hk",
+  "display_name": "Crouching Heavy Kick",
+  "input_classic": "d+hk",
+  "input_modern": "crouch+heavy",
+  "type": "normal",
+  "startup": 12,
+  "active": 4,
+  "recovery": 21,
+  "damage": 95,
+  "stun_damage": 130,
+  "chip_damage": 0,
+  "meter_gain": 8,
+  "hitstop": 12,
+  "pushback": 65,
+  "sound": "voice_chunli_attack_heavy",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_heavy"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_cr_mp",
+  "display_name": "Crouching Medium Punch",
+  "input_classic": "d+mp",
+  "input_modern": "crouch+medium",
+  "type": "normal",
+  "startup": 7,
+  "active": 3,
+  "recovery": 13,
+  "damage": 55,
+  "stun_damage": 75,
+  "chip_damage": 0,
+  "meter_gain": 6,
+  "hitstop": 10,
+  "pushback": 35,
+  "sound": "voice_chunli_attack_medium",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_medium"
+}

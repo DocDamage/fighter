@@ -1,0 +1,31 @@
+{
+  "id": "chun_li",
+  "display_name": "Chun-Li",
+  "archetype": "rushdown_charge",
+  "sprite_source": "res://assets/characters/processed/chun_li",
+  "sprite_format": "pre_cut_frames",
+  "health": 950,
+  "stun": 950,
+  "walk_speed": 200,
+  "back_walk_speed": 140,
+  "jump_velocity": -640,
+  "gravity_override": null,
+  "weight": "light",
+  "dash_distance": 140,
+  "backdash_distance": 110,
+  "backdash_invuln": 8,
+  "air_dash": false,
+  "double_jump": true,
+  "air_throw": true,
+  "moves": [
+    "chun_li_st_lp", "chun_li_st_mp", "chun_li_st_hp",
+    "chun_li_st_lk", "chun_li_st_mk", "chun_li_st_hk",
+    "chun_li_cr_lp", "chun_li_cr_mp", "chun_li_cr_hp",
+    "chun_li_cr_lk", "chun_li_cr_mk", "chun_li_cr_hk",
+    "chun_li_kikoken", "chun_li_spinning_bird_kick", "chun_li_hyakuretsukyaku",
+    "chun_li_super_1"
+  ],
+  "ko_sfx": "ko_female",
+  "rival": "guile",
+  "arcade_ending": "endings/chun_li.txt"
+}

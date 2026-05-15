@@ -1,0 +1,20 @@
+{
+  "id": "guile_cr_mk",
+  "display_name": "MK",
+  "input_classic": "mk",
+  "input_modern": "mk",
+  "type": "normal",
+  "startup": 7,
+  "active": 3,
+  "recovery": 13,
+  "damage": 60,
+  "stun_damage": 100,
+  "chip_damage": 12,
+  "meter_gain": 6,
+  "hitstop": 10,
+  "pushback": 40,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_medium"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "guile_flash_kick",
+  "display_name": "Flash Kick",
+  "input_classic": "charge [2]8+kick",
+  "input_modern": "special+kick",
+  "type": "special",
+  "startup": 4,
+  "active": 8,
+  "recovery": 28,
+  "invincible_startup": true,
+  "damage": 120,
+  "stun_damage": 150,
+  "chip_damage": 24,
+  "meter_gain": 12,
+  "hitstop": 12,
+  "pushback": 80,
+  "sound": "voice_guile_flash_kick",
+  "vfx": "big_hit",
+  "cancel_from": [],
+  "hit_sfx": "hit_fierce"
+}

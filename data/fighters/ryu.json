@@ -1,0 +1,31 @@
+{
+  "id": "ryu",
+  "display_name": "Ryu",
+  "archetype": "balanced_shoto",
+  "sprite_source": "res://assets/characters/processed/ryu",
+  "sprite_format": "pre_cut_frames",
+  "health": 1000,
+  "stun": 1000,
+  "walk_speed": 180,
+  "back_walk_speed": 130,
+  "jump_velocity": -620,
+  "gravity_override": null,
+  "weight": "medium",
+  "dash_distance": 120,
+  "backdash_distance": 100,
+  "backdash_invuln": 8,
+  "air_dash": true,
+  "double_jump": true,
+  "air_throw": false,
+  "moves": [
+    "ryu_st_lp", "ryu_st_mp", "ryu_st_hp",
+    "ryu_st_lk", "ryu_st_mk", "ryu_st_hk",
+    "ryu_cr_lp", "ryu_cr_mp", "ryu_cr_hp",
+    "ryu_cr_lk", "ryu_cr_mk", "ryu_cr_hk",
+    "ryu_hadouken", "ryu_shoryuken", "ryu_tatsumaki",
+    "ryu_super_1"
+  ],
+  "ko_sfx": "ko_male",
+  "rival": "ken",
+  "arcade_ending": "endings/ryu.txt"
+}

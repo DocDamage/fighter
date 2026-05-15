@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dauue3xpluat7"
+path="res://.godot/imported/DavidKBD - Electric Pulse - 07 - Electric Dreams of Infinity-full.ogg-7037fd44163ed522895b3d0c555922a2.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/DavidKBD - Electric Pulse - 07 - Electric Dreams of Infinity-full.ogg"
+dest_files=["res://.godot/imported/DavidKBD - Electric Pulse - 07 - Electric Dreams of Infinity-full.ogg-7037fd44163ed522895b3d0c555922a2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,13 @@
+{
+  "id": "noh_stage",
+  "display_name": "Noh Stage",
+  "background": "res://assets/stages/SNES - Teenage Mutant Ninja Turtles_ Tournament Fighters - Stages - Noh Stage.png",
+  "floor_y": 190,
+  "left_wall": 20,
+  "right_wall": 364,
+  "camera_min_x": 0,
+  "camera_max_x": 384,
+  "p1_spawn_x": 140,
+  "p2_spawn_x": 244,
+  "music": "noh_stage"
+}

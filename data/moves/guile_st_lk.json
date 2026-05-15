@@ -1,0 +1,20 @@
+{
+  "id": "guile_st_lk",
+  "display_name": "LK",
+  "input_classic": "lk",
+  "input_modern": "lk",
+  "type": "normal",
+  "startup": 5,
+  "active": 2,
+  "recovery": 8,
+  "damage": 30,
+  "stun_damage": 50,
+  "chip_damage": 6,
+  "meter_gain": 4,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_light"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shin_akuma_super_1",
+  "display_name": "Messatsu Gohado",
+  "input_classic": "236236+punch",
+  "input_modern": "special+punch",
+  "type": "super",
+  "startup": 10,
+  "active": 20,
+  "recovery": 40,
+  "damage": 250,
+  "stun_damage": 200,
+  "chip_damage": 50,
+  "meter_cost": 100,
+  "meter_gain": 0,
+  "hitstop": 20,
+  "pushback": 100,
+  "projectile": {
+    "speed": 280,
+    "lifetime": 2.0,
+    "vfx": "super_projectile"
+  },
+  "sound": "voice_akuma_super",
+  "vfx": "super_projectile_spawn",
+  "cancel_from": [],
+  "hit_sfx": "hit_fierce"
+}

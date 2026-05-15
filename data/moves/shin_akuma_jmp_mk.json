@@ -1,0 +1,21 @@
+{
+  "id": "shin_akuma_jmp_mk",
+  "display_name": "Jumping Medium Kick",
+  "input_classic": "mk",
+  "input_modern": "medium",
+  "type": "normal",
+  "startup": 6,
+  "active": 20,
+  "recovery": 8,
+  "damage": 35,
+  "stun_damage": 60,
+  "chip_damage": 0,
+  "meter_gain": 6,
+  "hitstop": 10,
+  "pushback": 40,
+  "sound": "voice_akuma_attack_medium",
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_medium"
+}

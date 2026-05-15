@@ -1,0 +1,1003 @@
+{
+  "idle": {
+    "frames": [
+      0
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "walk": {
+    "frames": [
+      1
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "jump": {
+    "frames": [
+      2
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "forward_jump": {
+    "frames": [
+      3
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "crouch": {
+    "frames": [
+      4
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "block": {
+    "frames": [
+      5
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_6": {
+    "frames": [
+      6
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_7": {
+    "frames": [
+      7
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_8": {
+    "frames": [
+      8
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_9": {
+    "frames": [
+      9
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_10": {
+    "frames": [
+      10
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_11": {
+    "frames": [
+      11
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_12": {
+    "frames": [
+      12
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_13": {
+    "frames": [
+      13
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_14": {
+    "frames": [
+      14
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_15": {
+    "frames": [
+      15
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_16": {
+    "frames": [
+      16
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_17": {
+    "frames": [
+      17
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_0_18": {
+    "frames": [
+      18
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "st_lp": {
+    "frames": [
+      19
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "st_mp": {
+    "frames": [
+      20
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "st_hp": {
+    "frames": [
+      21
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "fwd_lp": {
+    "frames": [
+      22
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "fwd_mp": {
+    "frames": [
+      23
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "fwd_hp": {
+    "frames": [
+      24
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_6": {
+    "frames": [
+      25
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_7": {
+    "frames": [
+      26
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_8": {
+    "frames": [
+      27
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_9": {
+    "frames": [
+      28
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_10": {
+    "frames": [
+      29
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_11": {
+    "frames": [
+      30
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_12": {
+    "frames": [
+      31
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_13": {
+    "frames": [
+      32
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_14": {
+    "frames": [
+      33
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_15": {
+    "frames": [
+      34
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_1_16": {
+    "frames": [
+      35
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "st_lk": {
+    "frames": [
+      36
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "st_mk": {
+    "frames": [
+      37
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "st_hk": {
+    "frames": [
+      38
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "fwd_lk": {
+    "frames": [
+      39
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "fwd_mk": {
+    "frames": [
+      40
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "fwd_hk": {
+    "frames": [
+      41
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_6": {
+    "frames": [
+      42
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_7": {
+    "frames": [
+      43
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_8": {
+    "frames": [
+      44
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_9": {
+    "frames": [
+      45
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_10": {
+    "frames": [
+      46
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_11": {
+    "frames": [
+      47
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_12": {
+    "frames": [
+      48
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_13": {
+    "frames": [
+      49
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_14": {
+    "frames": [
+      50
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_15": {
+    "frames": [
+      51
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_16": {
+    "frames": [
+      52
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_2_17": {
+    "frames": [
+      53
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "cr_lp": {
+    "frames": [
+      54
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "cr_mp": {
+    "frames": [
+      55
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "cr_hp": {
+    "frames": [
+      56
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "cr_lk": {
+    "frames": [
+      57
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "cr_mk": {
+    "frames": [
+      58
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "cr_hk": {
+    "frames": [
+      59
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_6": {
+    "frames": [
+      60
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_7": {
+    "frames": [
+      61
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_8": {
+    "frames": [
+      62
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_9": {
+    "frames": [
+      63
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_10": {
+    "frames": [
+      64
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_11": {
+    "frames": [
+      65
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_12": {
+    "frames": [
+      66
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_13": {
+    "frames": [
+      67
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_14": {
+    "frames": [
+      68
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_15": {
+    "frames": [
+      69
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_16": {
+    "frames": [
+      70
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_17": {
+    "frames": [
+      71
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_18": {
+    "frames": [
+      72
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_19": {
+    "frames": [
+      73
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_20": {
+    "frames": [
+      74
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_21": {
+    "frames": [
+      75
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_22": {
+    "frames": [
+      76
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_3_23": {
+    "frames": [
+      77
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "j_lp": {
+    "frames": [
+      78
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "j_mp": {
+    "frames": [
+      79
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "j_hp": {
+    "frames": [
+      80
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "j_lk": {
+    "frames": [
+      81
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "j_mk": {
+    "frames": [
+      82
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "j_hk": {
+    "frames": [
+      83
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "shoryuken": {
+    "frames": [
+      84
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "tatsumaki": {
+    "frames": [
+      85
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_8": {
+    "frames": [
+      86
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_9": {
+    "frames": [
+      87
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_10": {
+    "frames": [
+      88
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_11": {
+    "frames": [
+      89
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_12": {
+    "frames": [
+      90
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_13": {
+    "frames": [
+      91
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_14": {
+    "frames": [
+      92
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_15": {
+    "frames": [
+      93
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_16": {
+    "frames": [
+      94
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_17": {
+    "frames": [
+      95
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_18": {
+    "frames": [
+      96
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_19": {
+    "frames": [
+      97
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_20": {
+    "frames": [
+      98
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_21": {
+    "frames": [
+      99
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_22": {
+    "frames": [
+      100
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_23": {
+    "frames": [
+      101
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_24": {
+    "frames": [
+      102
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_25": {
+    "frames": [
+      103
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_4_26": {
+    "frames": [
+      104
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "hadouken": {
+    "frames": [
+      105
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "hadouken_proj": {
+    "frames": [
+      106
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "shoulder_toss": {
+    "frames": [
+      107
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "backroll": {
+    "frames": [
+      108
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_4": {
+    "frames": [
+      109
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_5": {
+    "frames": [
+      110
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_6": {
+    "frames": [
+      111
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_7": {
+    "frames": [
+      112
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_8": {
+    "frames": [
+      113
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_9": {
+    "frames": [
+      114
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_10": {
+    "frames": [
+      115
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_11": {
+    "frames": [
+      116
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_5_12": {
+    "frames": [
+      117
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "hit": {
+    "frames": [
+      118
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "face_hit": {
+    "frames": [
+      119
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "cr_hit": {
+    "frames": [
+      120
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "knockdown": {
+    "frames": [
+      121
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "stunned": {
+    "frames": [
+      122
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "ko": {
+    "frames": [
+      123
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_6": {
+    "frames": [
+      124
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_7": {
+    "frames": [
+      125
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_8": {
+    "frames": [
+      126
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_9": {
+    "frames": [
+      127
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_10": {
+    "frames": [
+      128
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_11": {
+    "frames": [
+      129
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_12": {
+    "frames": [
+      130
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_13": {
+    "frames": [
+      131
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_14": {
+    "frames": [
+      132
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_15": {
+    "frames": [
+      133
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_16": {
+    "frames": [
+      134
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_17": {
+    "frames": [
+      135
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_18": {
+    "frames": [
+      136
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "unknown_6_19": {
+    "frames": [
+      137
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "victory1": {
+    "frames": [
+      138
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "victory2": {
+    "frames": [
+      139
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "time_over": {
+    "frames": [
+      140
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "alt_palettes": {
+    "frames": [
+      141
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  "mugshots": {
+    "frames": [
+      142
+    ],
+    "fps": 12,
+    "loop": true
+  }
+}

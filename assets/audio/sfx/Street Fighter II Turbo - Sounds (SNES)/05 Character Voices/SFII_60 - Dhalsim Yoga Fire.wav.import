@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bj5o2nh43j6b8"
+path="res://.godot/imported/SFII_60 - Dhalsim Yoga Fire.wav-b4974d087076305052123edb5c8ed10b.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/05 Character Voices/SFII_60 - Dhalsim Yoga Fire.wav"
+dest_files=["res://.godot/imported/SFII_60 - Dhalsim Yoga Fire.wav-b4974d087076305052123edb5c8ed10b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

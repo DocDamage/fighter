@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_st_hp",
+  "display_name": "Standing Heavy Punch",
+  "input_classic": "hp",
+  "input_modern": "heavy",
+  "type": "normal",
+  "startup": 12,
+  "active": 3,
+  "recovery": 20,
+  "damage": 90,
+  "stun_damage": 120,
+  "chip_damage": 0,
+  "meter_gain": 8,
+  "hitstop": 12,
+  "pushback": 60,
+  "sound": "voice_chunli_attack_heavy",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_heavy"
+}

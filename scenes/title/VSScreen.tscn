@@ -1,0 +1,113 @@
+[gd_scene load_steps=2 format=3 uid="uid://vsscreenstreetfighter"]
+
+[ext_resource type="Script" path="res://scripts/title/vs_screen.gd" id="1_vs_screen"]
+
+[node name="VSScreen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_vs_screen")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.02, 0.02, 0.04, 1.0)
+
+[node name="P1Portrait" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 24.0
+offset_top = -60.0
+offset_right = 88.0
+offset_bottom = 60.0
+grow_vertical = 2
+flip_h = true
+
+[node name="P2Portrait" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -88.0
+offset_top = -60.0
+offset_right = -24.0
+offset_bottom = 60.0
+grow_horizontal = 0
+grow_vertical = 2
+
+[node name="P1Name" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -160.0
+offset_top = 16.0
+offset_right = -40.0
+offset_bottom = 40.0
+grow_horizontal = 2
+theme_override_font_sizes/font_size = 14
+text = "P1"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="VSLabel" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -40.0
+offset_top = -24.0
+offset_right = 40.0
+offset_bottom = 24.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 28
+text = "VS"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="P2Name" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = 40.0
+offset_top = 16.0
+offset_right = 160.0
+offset_bottom = 40.0
+grow_horizontal = 2
+theme_override_font_sizes/font_size = 14
+text = "P2"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="StageName" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -120.0
+offset_top = -32.0
+offset_right = 120.0
+offset_bottom = -12.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_font_sizes/font_size = 8
+text = "Stage"
+horizontal_alignment = 1
+vertical_alignment = 1

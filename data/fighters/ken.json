@@ -1,0 +1,31 @@
+{
+  "id": "ken",
+  "display_name": "Ken",
+  "archetype": "rushdown_shoto",
+  "sprite_source": "res://assets/characters/processed/ken",
+  "sprite_format": "pre_cut_frames",
+  "health": 1000,
+  "stun": 950,
+  "walk_speed": 195,
+  "back_walk_speed": 125,
+  "jump_velocity": -620,
+  "gravity_override": null,
+  "weight": "medium",
+  "dash_distance": 120,
+  "backdash_distance": 100,
+  "backdash_invuln": 8,
+  "air_dash": true,
+  "double_jump": true,
+  "air_throw": false,
+  "moves": [
+    "ken_st_lp", "ken_st_mp", "ken_st_hp",
+    "ken_st_lk", "ken_st_mk", "ken_st_hk",
+    "ken_cr_lp", "ken_cr_mp", "ken_cr_hp",
+    "ken_cr_lk", "ken_cr_mk", "ken_cr_hk",
+    "ken_hadouken", "ken_shoryuken", "ken_tatsumaki",
+    "ken_super_1"
+  ],
+  "ko_sfx": "ko_male",
+  "rival": "ryu",
+  "arcade_ending": "endings/ken.txt"
+}

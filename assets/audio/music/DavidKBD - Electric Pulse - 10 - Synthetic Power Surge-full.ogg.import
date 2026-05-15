@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bferigcyvtuxx"
+path="res://.godot/imported/DavidKBD - Electric Pulse - 10 - Synthetic Power Surge-full.ogg-1cf0ac8c9946f35f5b7068f44f16e935.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/DavidKBD - Electric Pulse - 10 - Synthetic Power Surge-full.ogg"
+dest_files=["res://.godot/imported/DavidKBD - Electric Pulse - 10 - Synthetic Power Surge-full.ogg-1cf0ac8c9946f35f5b7068f44f16e935.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

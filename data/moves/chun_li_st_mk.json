@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_st_mk",
+  "display_name": "Standing Medium Kick",
+  "input_classic": "mk",
+  "input_modern": "medium",
+  "type": "normal",
+  "startup": 8,
+  "active": 3,
+  "recovery": 15,
+  "damage": 65,
+  "stun_damage": 90,
+  "chip_damage": 0,
+  "meter_gain": 6,
+  "hitstop": 10,
+  "pushback": 45,
+  "sound": "voice_chunli_attack_medium",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_medium"
+}

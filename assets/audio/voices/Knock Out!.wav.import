@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dw4nncu6mrura"
+path="res://.godot/imported/Knock Out!.wav-cfdb99cf315a24635b226917fe8f9907.sample"
+
+[deps]
+
+source_file="res://assets/audio/voices/Knock Out!.wav"
+dest_files=["res://.godot/imported/Knock Out!.wav-cfdb99cf315a24635b226917fe8f9907.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

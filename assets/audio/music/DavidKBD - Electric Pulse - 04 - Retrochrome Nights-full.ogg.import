@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://de1hvgpal2tr8"
+path="res://.godot/imported/DavidKBD - Electric Pulse - 04 - Retrochrome Nights-full.ogg-e7ce4f2eb0192446bcadc67c4137c589.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/DavidKBD - Electric Pulse - 04 - Retrochrome Nights-full.ogg"
+dest_files=["res://.godot/imported/DavidKBD - Electric Pulse - 04 - Retrochrome Nights-full.ogg-e7ce4f2eb0192446bcadc67c4137c589.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

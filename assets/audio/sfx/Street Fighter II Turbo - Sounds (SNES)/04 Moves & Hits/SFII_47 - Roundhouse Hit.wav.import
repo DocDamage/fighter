@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dtkfotdif0wmn"
+path="res://.godot/imported/SFII_47 - Roundhouse Hit.wav-94e48a1e336c0e6418972036792bde20.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/04 Moves & Hits/SFII_47 - Roundhouse Hit.wav"
+dest_files=["res://.godot/imported/SFII_47 - Roundhouse Hit.wav-94e48a1e336c0e6418972036792bde20.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

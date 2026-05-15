@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_cr_lk",
+  "display_name": "Crouching Light Kick",
+  "input_classic": "d+lk",
+  "input_modern": "crouch+light",
+  "type": "normal",
+  "startup": 5,
+  "active": 2,
+  "recovery": 8,
+  "damage": 30,
+  "stun_damage": 45,
+  "chip_damage": 0,
+  "meter_gain": 4,
+  "hitstop": 8,
+  "pushback": 15,
+  "sound": "voice_chunli_attack_light",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_light"
+}

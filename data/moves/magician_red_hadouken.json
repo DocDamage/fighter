@@ -1,0 +1,27 @@
+{
+  "id": "magician_red_hadouken",
+  "display_name": "Fireball",
+  "input_classic": "236+punch",
+  "input_modern": "special+punch",
+  "type": "special",
+  "startup": 14,
+  "active": 0,
+  "recovery": 32,
+  "damage": 60,
+  "stun_damage": 80,
+  "chip_damage": 12,
+  "meter_gain": 8,
+  "hitstop": 10,
+  "pushback": 60,
+  "projectile": {
+    "speed": 220,
+    "lifetime": 2.5,
+    "vfx": "fire_projectile"
+  },
+  "sound": "voice_hadouken",
+  "vfx": "fire_projectile_spawn",
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_strong"
+}

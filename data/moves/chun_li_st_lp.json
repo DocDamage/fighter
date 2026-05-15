@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_st_lp",
+  "display_name": "Standing Light Punch",
+  "input_classic": "lp",
+  "input_modern": "light",
+  "type": "normal",
+  "startup": 4,
+  "active": 2,
+  "recovery": 8,
+  "damage": 30,
+  "stun_damage": 50,
+  "chip_damage": 0,
+  "meter_gain": 4,
+  "hitstop": 8,
+  "pushback": 20,
+  "sound": "voice_chunli_attack_light",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_light"
+}

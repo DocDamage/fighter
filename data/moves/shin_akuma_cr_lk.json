@@ -1,0 +1,21 @@
+{
+  "id": "shin_akuma_cr_lk",
+  "display_name": "Crouching Light Kick",
+  "input_classic": "lk",
+  "input_modern": "light",
+  "type": "normal",
+  "startup": 3,
+  "active": 2,
+  "recovery": 6,
+  "damage": 25,
+  "stun_damage": 30,
+  "chip_damage": 0,
+  "meter_gain": 4,
+  "hitstop": 8,
+  "pushback": 20,
+  "sound": "voice_akuma_attack_light",
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_light"
+}

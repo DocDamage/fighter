@@ -1,0 +1,20 @@
+{
+  "id": "guile_cr_mp",
+  "display_name": "MP",
+  "input_classic": "mp",
+  "input_modern": "mp",
+  "type": "normal",
+  "startup": 6,
+  "active": 3,
+  "recovery": 12,
+  "damage": 60,
+  "stun_damage": 100,
+  "chip_damage": 12,
+  "meter_gain": 6,
+  "hitstop": 10,
+  "pushback": 40,
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_medium"
+}

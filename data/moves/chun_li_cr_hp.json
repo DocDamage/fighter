@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_cr_hp",
+  "display_name": "Crouching Heavy Punch",
+  "input_classic": "d+hp",
+  "input_modern": "crouch+heavy",
+  "type": "normal",
+  "startup": 11,
+  "active": 3,
+  "recovery": 18,
+  "damage": 85,
+  "stun_damage": 110,
+  "chip_damage": 0,
+  "meter_gain": 8,
+  "hitstop": 12,
+  "pushback": 55,
+  "sound": "voice_chunli_attack_heavy",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_heavy"
+}

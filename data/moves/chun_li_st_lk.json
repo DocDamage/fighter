@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_st_lk",
+  "display_name": "Standing Light Kick",
+  "input_classic": "lk",
+  "input_modern": "light",
+  "type": "normal",
+  "startup": 5,
+  "active": 2,
+  "recovery": 9,
+  "damage": 35,
+  "stun_damage": 50,
+  "chip_damage": 0,
+  "meter_gain": 4,
+  "hitstop": 8,
+  "pushback": 20,
+  "sound": "voice_chunli_attack_light",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_light"
+}

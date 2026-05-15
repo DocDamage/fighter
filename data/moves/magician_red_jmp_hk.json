@@ -1,0 +1,15 @@
+{
+  "id": "magician_red_jmp_hk",
+  "display_name": "JUMP HK",
+  "type": "normal",
+  "startup": 10,
+  "active": 20,
+  "recovery": 8,
+  "damage": 100,
+  "stun_damage": 120,
+  "meter_gain": 3,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [],
+  "hit_sfx": "hit_medium"
+}

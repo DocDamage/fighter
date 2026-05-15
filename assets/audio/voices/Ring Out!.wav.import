@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://teraiqx2yvs2"
+path="res://.godot/imported/Ring Out!.wav-bfa97c0b2a01054b7fb78175a12f356c.sample"
+
+[deps]
+
+source_file="res://assets/audio/voices/Ring Out!.wav"
+dest_files=["res://.godot/imported/Ring Out!.wav-bfa97c0b2a01054b7fb78175a12f356c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,15 @@
+{
+  "id": "magician_red_jmp_hp",
+  "display_name": "JUMP HP",
+  "type": "normal",
+  "startup": 7,
+  "active": 20,
+  "recovery": 8,
+  "damage": 90,
+  "stun_damage": 100,
+  "meter_gain": 3,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [],
+  "hit_sfx": "hit_medium"
+}

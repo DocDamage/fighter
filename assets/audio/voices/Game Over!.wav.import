@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://x7t3odhow0tn"
+path="res://.godot/imported/Game Over!.wav-93fbcbaf99d8f885a7c1433463577283.sample"
+
+[deps]
+
+source_file="res://assets/audio/voices/Game Over!.wav"
+dest_files=["res://.godot/imported/Game Over!.wav-93fbcbaf99d8f885a7c1433463577283.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

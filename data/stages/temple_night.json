@@ -1,0 +1,13 @@
+{
+  "id": "temple_night",
+  "display_name": "Temple Night",
+  "background": "res://assets/stages/SNES - Dragon Ball Z_ Hyper Dimension - Stages - Temple (Night).png",
+  "floor_y": 190,
+  "left_wall": 20,
+  "right_wall": 364,
+  "camera_min_x": 0,
+  "camera_max_x": 384,
+  "p1_spawn_x": 140,
+  "p2_spawn_x": 244,
+  "music": "temple_night"
+}

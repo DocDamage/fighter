@@ -1,0 +1,33 @@
+[gd_scene load_steps=2 format=3 uid="uid://trainingoverlaystreetfighter"]
+
+[ext_resource type="Script" path="res://scripts/ui/training_overlay.gd" id="1_training_overlay"]
+
+[node name="TrainingOverlay" type="CanvasLayer"]
+visible = false
+script = ExtResource("1_training_overlay")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+offset_left = 8.0
+offset_top = 80.0
+offset_right = 200.0
+offset_bottom = 300.0
+
+[node name="HitboxLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 8
+text = "Hitboxes: OFF"
+
+[node name="FrameDataLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 8
+text = "Frame Data"
+
+[node name="InputHistoryLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 8
+text = "Inputs"
+
+[node name="ModeLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 8
+text = "Dummy: STAND"

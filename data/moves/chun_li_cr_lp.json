@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_cr_lp",
+  "display_name": "Crouching Light Punch",
+  "input_classic": "d+lp",
+  "input_modern": "crouch+light",
+  "type": "normal",
+  "startup": 4,
+  "active": 2,
+  "recovery": 7,
+  "damage": 25,
+  "stun_damage": 40,
+  "chip_damage": 0,
+  "meter_gain": 4,
+  "hitstop": 8,
+  "pushback": 15,
+  "sound": "voice_chunli_attack_light",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_light"
+}

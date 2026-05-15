@@ -1,0 +1,21 @@
+{
+  "id": "shin_akuma_jmp_lk",
+  "display_name": "Jumping Light Kick",
+  "input_classic": "lk",
+  "input_modern": "light",
+  "type": "normal",
+  "startup": 4,
+  "active": 20,
+  "recovery": 8,
+  "damage": 20,
+  "stun_damage": 30,
+  "chip_damage": 0,
+  "meter_gain": 4,
+  "hitstop": 8,
+  "pushback": 20,
+  "sound": "voice_akuma_attack_light",
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_light"
+}

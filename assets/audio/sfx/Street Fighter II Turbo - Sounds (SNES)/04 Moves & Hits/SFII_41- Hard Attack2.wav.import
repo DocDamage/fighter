@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cucq4qox3msc3"
+path="res://.godot/imported/SFII_41- Hard Attack2.wav-11d24a22f8cb37373bd9fe3f8b17cb9e.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/04 Moves & Hits/SFII_41- Hard Attack2.wav"
+dest_files=["res://.godot/imported/SFII_41- Hard Attack2.wav-11d24a22f8cb37373bd9fe3f8b17cb9e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

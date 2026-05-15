@@ -1,0 +1,21 @@
+{
+  "id": "magician_red_shoryuken",
+  "display_name": "Dragon Punch",
+  "input_classic": "623+punch",
+  "input_modern": "special+punch",
+  "type": "special",
+  "startup": 4,
+  "active": 8,
+  "recovery": 28,
+  "invincible_startup": true,
+  "damage": 120,
+  "stun_damage": 150,
+  "chip_damage": 24,
+  "meter_gain": 12,
+  "hitstop": 12,
+  "pushback": 80,
+  "sound": "voice_shoryuken",
+  "vfx": "big_hit",
+  "cancel_from": [],
+  "hit_sfx": "hit_fierce"
+}

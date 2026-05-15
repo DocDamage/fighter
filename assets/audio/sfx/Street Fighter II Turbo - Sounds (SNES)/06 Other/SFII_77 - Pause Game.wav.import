@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cn61jb1doqrah"
+path="res://.godot/imported/SFII_77 - Pause Game.wav-3d3ac763b9111613490e7181b99829e6.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/Street Fighter II Turbo - Sounds (SNES)/06 Other/SFII_77 - Pause Game.wav"
+dest_files=["res://.godot/imported/SFII_77 - Pause Game.wav-3d3ac763b9111613490e7181b99829e6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

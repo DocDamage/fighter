@@ -1,0 +1,21 @@
+{
+  "id": "shin_akuma_st_mp",
+  "display_name": "Standing Medium Punch",
+  "input_classic": "mp",
+  "input_modern": "medium",
+  "type": "normal",
+  "startup": 6,
+  "active": 3,
+  "recovery": 10,
+  "damage": 55,
+  "stun_damage": 60,
+  "chip_damage": 0,
+  "meter_gain": 6,
+  "hitstop": 10,
+  "pushback": 40,
+  "sound": "voice_akuma_attack_medium",
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_medium"
+}

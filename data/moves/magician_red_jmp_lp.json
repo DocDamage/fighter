@@ -1,0 +1,15 @@
+{
+  "id": "magician_red_jmp_lp",
+  "display_name": "JUMP LP",
+  "type": "normal",
+  "startup": 4,
+  "active": 20,
+  "recovery": 8,
+  "damage": 20,
+  "stun_damage": 30,
+  "meter_gain": 3,
+  "hitstop": 8,
+  "pushback": 20,
+  "cancel_from": [],
+  "hit_sfx": "hit_light"
+}

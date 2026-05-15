@@ -1,0 +1,19 @@
+{
+  "id": "chun_li_cr_mk",
+  "display_name": "Crouching Medium Kick",
+  "input_classic": "d+mk",
+  "input_modern": "crouch+medium",
+  "type": "normal",
+  "startup": 8,
+  "active": 3,
+  "recovery": 14,
+  "damage": 60,
+  "stun_damage": 85,
+  "chip_damage": 0,
+  "meter_gain": 6,
+  "hitstop": 10,
+  "pushback": 40,
+  "sound": "voice_chunli_attack_medium",
+  "cancel_from": ["normal_cancelable"],
+  "hit_sfx": "hit_medium"
+}

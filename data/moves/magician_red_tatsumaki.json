@@ -1,0 +1,23 @@
+{
+  "id": "magician_red_tatsumaki",
+  "display_name": "Hurricane Kick",
+  "input_classic": "214+kick",
+  "input_modern": "special+kick",
+  "type": "special",
+  "startup": 10,
+  "active": 18,
+  "recovery": 20,
+  "damage": 90,
+  "stun_damage": 120,
+  "chip_damage": 18,
+  "meter_gain": 10,
+  "hitstop": 10,
+  "pushback": 50,
+  "travel_distance": 80,
+  "sound": "voice_tatsumaki",
+  "vfx": "wheel_spin",
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_forward"
+}

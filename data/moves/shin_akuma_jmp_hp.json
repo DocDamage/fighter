@@ -1,0 +1,21 @@
+{
+  "id": "shin_akuma_jmp_hp",
+  "display_name": "Jumping Heavy Punch",
+  "input_classic": "hp",
+  "input_modern": "heavy",
+  "type": "normal",
+  "startup": 7,
+  "active": 20,
+  "recovery": 8,
+  "damage": 55,
+  "stun_damage": 120,
+  "chip_damage": 0,
+  "meter_gain": 8,
+  "hitstop": 12,
+  "pushback": 60,
+  "sound": "voice_akuma_attack_heavy",
+  "cancel_from": [
+    "normal_cancelable"
+  ],
+  "hit_sfx": "hit_heavy"
+}
