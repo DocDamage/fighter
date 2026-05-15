@@ -4,6 +4,7 @@ extends Control
 const MENU_ITEMS := ["ARCADE MODE", "VERSUS MODE", "OPTIONS", "QUIT"]
 const CHAR_SELECT_SCENE := "res://scenes/title/CharacterSelect.tscn"
 const OPTIONS_SCENE := "res://scenes/title/OptionsMenu.tscn"
+const ARCADE_SCENE := "res://scenes/title/ArcadeMode.tscn"
 
 @onready var _bg: TextureRect = $Background
 @onready var _menu_container: VBoxContainer = $MenuContainer
@@ -66,8 +67,7 @@ func _select_item() -> void:
 	match _selected:
 		0: # Arcade Mode
 			await get_tree().create_timer(0.15).timeout
-			# TODO: Launch arcade mode ladder
-			get_tree().change_scene_to_file(CHAR_SELECT_SCENE)
+			get_tree().change_scene_to_file(ARCADE_SCENE)
 		1: # Versus Mode
 			await get_tree().create_timer(0.15).timeout
 			get_tree().change_scene_to_file(CHAR_SELECT_SCENE)
